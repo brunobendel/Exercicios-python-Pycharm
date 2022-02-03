@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f294de93-b54b-4113-88ac-7e3f7ca6b3ad" name="Default Changelist" comment="" />
+    <list default="true" id="f294de93-b54b-4113-88ac-7e3f7ca6b3ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Como fazer docstrings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Exercicios-python-Pycharm" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jYeUAUT6BacXgbpCicX9RK1O4t" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -32,9 +36,30 @@
     <property name="TODO_SCOPE" value="Project Files" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Python.menu de interação">
+  <component name="RunManager" selected="Python.Como fazer docstrings">
+    <configuration name="Como fazer docstrings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exercicios python Pycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Como fazer docstrings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Ex 100" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Exercicios python Pycharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -48,27 +73,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex 100.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Ex 88" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Exercicios python Pycharm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex 88.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,18 +168,18 @@
     <list>
       <item itemvalue="Python.Ex 100" />
       <item itemvalue="Python.Exercicios python Pycharm" />
-      <item itemvalue="Python.Ex 88" />
       <item itemvalue="Python.Ex 91" />
       <item itemvalue="Python.JO_KEN_PO" />
       <item itemvalue="Python.menu de interação" />
+      <item itemvalue="Python.Como fazer docstrings" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Como fazer docstrings" />
         <item itemvalue="Python.menu de interação" />
         <item itemvalue="Python.JO_KEN_PO" />
         <item itemvalue="Python.Exercicios python Pycharm" />
         <item itemvalue="Python.Ex 91" />
-        <item itemvalue="Python.Ex 88" />
       </list>
     </recent_temporary>
   </component>
@@ -192,6 +196,12 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Exercicios-JS" />
+      <path value="$PROJECT_DIR$/Exercicios-python-Pycharm" />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
     <state x="137" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1643735520247">
       <screen x="0" y="0" width="1366" height="720" />
@@ -201,30 +211,38 @@
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="451" y="163" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.720@0.0.1366.720" timestamp="1643734348074" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1643908951296">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1643908951296" />
     <state x="121" y="118" key="FileChooserDialogImpl" timestamp="1643735312614">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="121" y="118" key="FileChooserDialogImpl/0.0.1366.720@0.0.1366.720" timestamp="1643735312614" />
-    <state width="1345" height="134" key="GridCell.Tab.0.bottom" timestamp="1643743604927">
+    <state width="1345" height="134" key="GridCell.Tab.0.bottom" timestamp="1643908923546">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="134" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1643743604927" />
-    <state width="1345" height="134" key="GridCell.Tab.0.center" timestamp="1643743604927">
+    <state width="1345" height="134" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1643908923546" />
+    <state width="1345" height="134" key="GridCell.Tab.0.center" timestamp="1643908923546">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="134" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1643743604927" />
-    <state width="1345" height="134" key="GridCell.Tab.0.left" timestamp="1643743604926">
+    <state width="1345" height="134" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1643908923546" />
+    <state width="1345" height="134" key="GridCell.Tab.0.left" timestamp="1643908923545">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="134" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1643743604926" />
-    <state width="1345" height="134" key="GridCell.Tab.0.right" timestamp="1643743604927">
+    <state width="1345" height="134" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1643908923545" />
+    <state width="1345" height="134" key="GridCell.Tab.0.right" timestamp="1643908923546">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="134" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1643743604927" />
-    <state x="379" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1643741678175">
+    <state width="1345" height="134" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1643908923546" />
+    <state x="184" y="2" key="SettingsEditor" timestamp="1643908361043">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="379" y="184" key="com.intellij.ide.util.TipDialog/0.0.1366.720@0.0.1366.720" timestamp="1643741678175" />
+    <state x="184" y="2" key="SettingsEditor/0.0.1366.720@0.0.1366.720" timestamp="1643908361043" />
+    <state x="379" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1643900789366">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="379" y="184" key="com.intellij.ide.util.TipDialog/0.0.1366.720@0.0.1366.720" timestamp="1643900789366" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
