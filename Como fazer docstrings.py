@@ -1,5 +1,5 @@
 
-def contador(i,f,p):
+def contador(i=0,f=0,p=1):
     """
     Contador feito Pelo Bruno na aula do guanabara:
     :param i: parametro inicial

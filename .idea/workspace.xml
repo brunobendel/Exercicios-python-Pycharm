@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f294de93-b54b-4113-88ac-7e3f7ca6b3ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Como fazer docstrings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Como fazer docstrings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -164,12 +165,12 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.Como fazer docstrings" />
       <item itemvalue="Python.Ex 100" />
-      <item itemvalue="Python.Exercicios python Pycharm" />
       <item itemvalue="Python.Ex 91" />
+      <item itemvalue="Python.Exercicios python Pycharm" />
       <item itemvalue="Python.JO_KEN_PO" />
       <item itemvalue="Python.menu de interação" />
-      <item itemvalue="Python.Como fazer docstrings" />
     </list>
     <recent_temporary>
       <list>
@@ -192,6 +193,14 @@
       <option name="presentableId" value="Default" />
       <updated>1603985465557</updated>
     </task>
+    <task id="LOCAL-00001" summary="aula 21 curso em video">
+      <created>1643909192229</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643909192229</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -199,7 +208,8 @@
       <path value="$PROJECT_DIR$/Exercicios-JS" />
       <path value="$PROJECT_DIR$/Exercicios-python-Pycharm" />
     </ignored-roots>
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="aula 21 curso em video" />
+    <option name="LAST_COMMIT_MESSAGE" value="aula 21 curso em video" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1643735520247">
@@ -218,30 +228,30 @@
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="121" y="118" key="FileChooserDialogImpl/0.0.1366.720@0.0.1366.720" timestamp="1643735312614" />
-    <state width="1345" height="134" key="GridCell.Tab.0.bottom" timestamp="1643909272330">
+    <state width="1345" height="134" key="GridCell.Tab.0.bottom" timestamp="1643909457384">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="134" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1643909272330" />
-    <state width="1345" height="134" key="GridCell.Tab.0.center" timestamp="1643909272329">
+    <state width="1345" height="134" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1643909457384" />
+    <state width="1345" height="134" key="GridCell.Tab.0.center" timestamp="1643909457384">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="134" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1643909272329" />
-    <state width="1345" height="134" key="GridCell.Tab.0.left" timestamp="1643909272329">
+    <state width="1345" height="134" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1643909457384" />
+    <state width="1345" height="134" key="GridCell.Tab.0.left" timestamp="1643909457384">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="134" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1643909272329" />
-    <state width="1345" height="134" key="GridCell.Tab.0.right" timestamp="1643909272330">
+    <state width="1345" height="134" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1643909457384" />
+    <state width="1345" height="134" key="GridCell.Tab.0.right" timestamp="1643909457384">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="134" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1643909272330" />
+    <state width="1345" height="134" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1643909457384" />
     <state x="184" y="2" key="SettingsEditor" timestamp="1643908361043">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="184" y="2" key="SettingsEditor/0.0.1366.720@0.0.1366.720" timestamp="1643908361043" />
-    <state x="379" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1643900789366">
+    <state x="379" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1643912648095">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="379" y="184" key="com.intellij.ide.util.TipDialog/0.0.1366.720@0.0.1366.720" timestamp="1643900789366" />
+    <state x="379" y="184" key="com.intellij.ide.util.TipDialog/0.0.1366.720@0.0.1366.720" timestamp="1643912648095" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
