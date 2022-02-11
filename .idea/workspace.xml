@@ -2,9 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f294de93-b54b-4113-88ac-7e3f7ca6b3ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Ex109.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex 113.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex 114.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex115/Sistema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex115/lib/interface/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uteis/dados/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercicios python Pycharm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Exercicios python Pycharm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex 08.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/Ex 08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex109.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex109.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uteis/moedas/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/uteis/moedas/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uteis/numeros/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/uteis/numeros/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/t32.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/t32.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/t64.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/t64.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/w32.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/w32.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/w64.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.8.egg/pip/_vendor/distlib/w64.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/autopep8.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/autopep8.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-3.8.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-3.8.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.8.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.8.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pycodestyle.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pycodestyle.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/python.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/python.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,15 +62,18 @@
     <property name="TODO_SCOPE" value="Project Files" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bruno\OneDrive\Área de Trabalho\Exercicios python Pycharm\venv\Scripts" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\bruno\OneDrive\Área de Trabalho\Exercicios python Pycharm" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Ex109">
-    <configuration name="Como fazer docstrings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Sistema">
+    <configuration name="Ex 114" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exercicios python Pycharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,7 +85,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Como fazer docstrings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex 114.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +94,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex 100" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="Exercicios python Pycharm" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Exercicios python Pycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\bruno\OneDrive\Área de Trabalho\Exercicios python Pycharm\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sistema" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exercicios python Pycharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex115" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex 100.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex115/Sistema.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,147 +136,10 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex 106" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Exercicios python Pycharm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex 106.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Ex 107 + 108" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Exercicios python Pycharm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\bruno\OneDrive\Área de Trabalho\Exercicios python Pycharm\Ex 107 + 108.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Ex 107 + 108" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Exercicios python Pycharm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\bruno\OneDrive\Área de Trabalho\Exercicios python Pycharm\Ex 107 + 108.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Ex 107 +" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Exercicios python Pycharm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\bruno\OneDrive\Área de Trabalho\Exercicios python Pycharm\Ex 107 +.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Ex 91" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Exercicios python Pycharm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex 91.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Ex109" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Exercicios python Pycharm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex109.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Python.Ex 100" />
-      <item itemvalue="Python.Como fazer docstrings" />
-      <item itemvalue="Python.Ex 106" />
-      <item itemvalue="Python.Ex 91" />
-      <item itemvalue="Python.Ex 107 + 108" />
-      <item itemvalue="Python.Ex109" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Ex109" />
-        <item itemvalue="Python.Ex 107 + 108" />
-        <item itemvalue="Python.Ex 91" />
-        <item itemvalue="Python.Ex 107 + 108" />
-        <item itemvalue="Python.Ex 106" />
+        <item itemvalue="Python.Sistema" />
+        <item itemvalue="Python.Ex 114" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643909192229</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="aula 21 curso em video">
+      <created>1644525685651</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644525685651</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -264,46 +181,58 @@
     <option name="LAST_COMMIT_MESSAGE" value="aula 21 curso em video" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1643735520247">
+    <state x="137" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1644549322095">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="137" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.720@0.0.1366.720" timestamp="1643735520247" />
-    <state x="451" y="163" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1643734348074">
+    <state x="137" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.720@0.0.1366.720" timestamp="1644549322095" />
+    <state x="451" y="163" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1644548081258">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="451" y="163" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.720@0.0.1366.720" timestamp="1643734348074" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1643909189485">
+    <state x="451" y="163" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.720@0.0.1366.720" timestamp="1644548081258" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1644525682647">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1643909189485" />
-    <state x="121" y="118" key="FileChooserDialogImpl" timestamp="1644509633404">
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1644525682647" />
+    <state x="121" y="118" key="FileChooserDialogImpl" timestamp="1644549099201">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="121" y="118" key="FileChooserDialogImpl/0.0.1366.720@0.0.1366.720" timestamp="1644509633404" />
-    <state width="1345" height="174" key="GridCell.Tab.0.bottom" timestamp="1644525662989">
+    <state x="121" y="118" key="FileChooserDialogImpl/0.0.1366.720@0.0.1366.720" timestamp="1644549099201" />
+    <state width="1345" height="383" key="GridCell.Tab.0.bottom" timestamp="1644552064619">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1644525662989" />
-    <state width="1345" height="174" key="GridCell.Tab.0.center" timestamp="1644525662989">
+    <state width="1345" height="383" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1644552064619" />
+    <state width="1345" height="383" key="GridCell.Tab.0.center" timestamp="1644552064619">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1644525662989" />
-    <state width="1345" height="174" key="GridCell.Tab.0.left" timestamp="1644525662989">
+    <state width="1345" height="383" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1644552064619" />
+    <state width="1345" height="383" key="GridCell.Tab.0.left" timestamp="1644552064619">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1644525662989" />
-    <state width="1345" height="174" key="GridCell.Tab.0.right" timestamp="1644525662989">
+    <state width="1345" height="383" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1644552064619" />
+    <state width="1345" height="383" key="GridCell.Tab.0.right" timestamp="1644552064619">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1644525662989" />
-    <state x="184" y="2" key="SettingsEditor" timestamp="1643908361043">
+    <state width="1345" height="383" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1644552064619" />
+    <state x="184" y="2" key="SettingsEditor" timestamp="1644549304170">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="184" y="2" key="SettingsEditor/0.0.1366.720@0.0.1366.720" timestamp="1643908361043" />
-    <state x="379" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1644522696577">
+    <state x="184" y="2" key="SettingsEditor/0.0.1366.720@0.0.1366.720" timestamp="1644549304170" />
+    <state x="92" y="92" width="1182" height="536" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1644549193541">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="379" y="184" key="com.intellij.ide.util.TipDialog/0.0.1366.720@0.0.1366.720" timestamp="1644522696577" />
+    <state x="92" y="92" width="1182" height="536" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.720@0.0.1366.720" timestamp="1644549193541" />
+    <state x="379" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1644549207130">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="379" y="184" key="com.intellij.ide.util.TipDialog/0.0.1366.720@0.0.1366.720" timestamp="1644549207130" />
+    <state x="379" y="0" width="607" height="720" key="find.popup" timestamp="1644547249274">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="379" y="0" width="607" height="720" key="find.popup/0.0.1366.720@0.0.1366.720" timestamp="1644547249274" />
+    <state x="346" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1644548224649">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="346" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1366.720@0.0.1366.720" timestamp="1644548224649" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
