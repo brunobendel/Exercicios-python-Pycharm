@@ -29,3 +29,27 @@ def menu(lista):
     opc = leiaint('\033[32mSua Opção: \033[m')
     return opc
 
+def LerArquivo(nome):
+    try :
+        a = open(nome, 'rt')
+    except:
+        print('Erro ao ler arquivo')
+    else:
+        cabeçalho('Pessoas cadastradas')
+        print(a.read())
+def CriarArquivo(nome):
+    try:
+        a = open(nome, 'wt+')
+        a.close()
+    except:
+        print('Houve um Erro na criação de uma arquivo')
+    else:
+        print(f'O arquivo {nome} foi criado com sucesso.')
+def ArqExiste(nome):
+    try:
+        a = open(nome, 'rt')
+        a.close()
+    except FileNotFoundError:
+        return False
+    else:
+        return True

@@ -1,10 +1,14 @@
 from Ex115.lib.interface import *
 from time import sleep
 
+arq = 'Nomes.txt'
+
+if not ArqExiste(arq):
+    CriarArquivo(arq)
 while True:
     resp = menu (['Ver Pessoas Cadastradas','Cadastrar Pessoas','Sair do Siatema'])
     if resp == 1:
-        cabeçalho('Opção 1')
+        LerArquivo(arq)
     elif resp == 2:
         cabeçalho('Opção 2')
     elif resp == 3:
