@@ -36,7 +36,13 @@ def LerArquivo(nome):
         print('Erro ao ler arquivo')
     else:
         cabeçalho('Pessoas cadastradas')
-        print(a.read())
+        for linha in a:
+            dado =linha.split(';')
+            dado[1] =dado[1].replace('\n','')
+            print(f'{dado[0]:<30}{dado[1]:>3} anos')
+    finally:
+        a.close()
+
 def CriarArquivo(nome):
     try:
         a = open(nome, 'wt+')
@@ -45,6 +51,7 @@ def CriarArquivo(nome):
         print('Houve um Erro na criação de uma arquivo')
     else:
         print(f'O arquivo {nome} foi criado com sucesso.')
+
 def ArqExiste(nome):
     try:
         a = open(nome, 'rt')
@@ -53,3 +60,17 @@ def ArqExiste(nome):
         return False
     else:
         return True
+
+def cadastrar(arq, nome='desconhecido', idade=0):
+    try:
+        a = open(arq, 'at')
+    except:
+        print('Houve um erro na abertura do arquivo!')
+    else:
+        try:
+            a.write(f'{nome};{idade}\n')
+        except:
+            print('Houve um erro ao escrever os dados')
+        else:
+            print(f'O novo cadastro de {nome} foi cadastrado com sucesso.')
+            a.close()

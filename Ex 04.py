@@ -11,3 +11,5 @@ print("Está em maiusculas?",a.isupper())
 print("Está em minusculas?", a.islower())
 print('Está captalizada?', a.istitle()) #quando tem letras maiuscyulas e minusculas.
 
+num = [6, 2, 1, 4, 3]
+print(num.sort())

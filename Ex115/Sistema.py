@@ -10,7 +10,10 @@ while True:
     if resp == 1:
         LerArquivo(arq)
     elif resp == 2:
-        cabeçalho('Opção 2')
+        cabeçalho('NOVO CADASTRO')
+        nome =str(input('Nome: '))
+        idade =leiaint('Idade: ')
+        cadastrar(arq, nome, idade)
     elif resp == 3:
         cabeçalho('Saindo do Sistema.')
         break
